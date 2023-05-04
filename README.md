@@ -20,7 +20,8 @@ Here's a list of all languages/framework/famous libraries/softwares i've used mo
 | XAMPP                               | Run website with a PHP/SQL back                                                                           |
 | MariaDB                             | Run SQL database                                                                                          |
 | Notion.so                           | Project management, data hosting and sharing (Wiki, watch lists, to-do lists...)                          |
+| Godot & GDScript                    | Made some mini-games (one of them is not on GitHub, i'll look for it 👀)                                  |
 
 If you want to contact me you can add me on Discord : **UP-4303#7784**
 or send me an email : **<up4303.pro@protonmail.com>**  
-(if you have it, use my student mail instead)
+(if you have it, use my student mail / my nominative pro mail instead)
