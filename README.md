@@ -1,4 +1,4 @@
-Hi, I’m @UP-4303 ! My native language is french but I also speak english.  
+Hi, I’m @UP-4303 ! My native language is french but I also speak english. I'm also currently learning japanese.  
 I am a 3rd year student in CMI Informatique
 
 Here's a list of all languages/framework/famous libraries/softwares i've used more than one time :
@@ -15,12 +15,15 @@ Here's a list of all languages/framework/famous libraries/softwares i've used mo
 | Arduino                             | Learning embedded systems                                                                                 |
 | Ada                                 | Learning imperative programming (understand : code, better.)                                              |
 | OCaml                               | Learning functional programming                                                                           |
+| Kotlin                              | Android apps creation                                                                                     |
+| Android Studio                      | Used for Android apps projects                                                                            |
+| Visual Studio Code                  | My favorite IDE ! I use it everyday for any task I have                                                   |
 | Linux (WSL Ubuntu & Debian)         | Virtual work environment (I did a bit of bash)                                                            |
 | Git & GitHub                        | Version management                                                                                        |
 | XAMPP                               | Run website with a PHP/SQL back                                                                           |
 | MariaDB                             | Run SQL database                                                                                          |
 | Notion.so                           | Project management, data hosting and sharing (Wiki, watch lists, to-do lists...)                          |
-| Godot & GDScript                    | Made some mini-games (one of them is not on GitHub, i'll look for it 👀)                                  |
+| Godot & GDScript                    | Made some mini-games (one of them is not on GitHub, i'll look for it 👀)                                 |
 
 If you want to contact me you can add me on Discord : **up4303**  
 or send me an email : **<up4303.pro@protonmail.com>**  
