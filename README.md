@@ -1,5 +1,5 @@
 Hi, I’m @UP-4303 ! My native language is french but I also speak english. I'm also currently learning japanese.  
-I am a 3rd year student in CMI Informatique
+I am a 3rd year student in CMI Informatique (IT, specialized in programming)
 
 Here's a list of all languages/framework/famous libraries/softwares i've used more than one time :
 
@@ -11,7 +11,8 @@ Here's a list of all languages/framework/famous libraries/softwares i've used mo
 | SQL                                 | Database management                                                                                       |
 | Python                              | Learning the basics of algorithmic, [a game](https://github.com/UP-4303/VISI301) and some macro scripting |
 | Java                                | Learning object-oriented programming                                                                      |
-| C                                   | Learning... Well, C                                                                                       |
+| Pharo                               | Learning object-oriented programming, focused on metaclass concept                                        |
+| C                                   | Learning C language                                                                                       |
 | Arduino                             | Learning embedded systems                                                                                 |
 | Ada                                 | Learning imperative programming (understand : code, better.)                                              |
 | OCaml                               | Learning functional programming                                                                           |
