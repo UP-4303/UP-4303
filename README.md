@@ -1,5 +1,5 @@
 Hi, I’m @UP-4303 ! My native language is french but I also speak english. I'm also currently learning japanese.  
-I am a 3rd year student in CMI Informatique (IT, specialized in programming)
+I am a 4th year student in CMI Informatique (IT, specialized in programming)
 
 Here's a list of all languages/framework/famous libraries/softwares i've used more than one time :
 
