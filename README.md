@@ -1,7 +1,9 @@
-Hi, I’m @UP-4303 ! My native language is french but I also speak english. I'm also currently learning japanese.  
+Hi, I’m @UP-4303 ! My native language is french but I speak english as well. I'm also currently learning japanese.  
 I am a 4th year student in CMI Informatique (IT, specialized in programming)
 
-Here's a list of all languages/framework/famous libraries/softwares i've used more than one time :
+If you want to check my repositories, be sure to also check [this list of repositories I have contributed to](https://github.com/stars/UP-4303/lists/contributor).
+
+Here's a list of all languages/framework/famous libraries/softwares i've used more than one time:
 
 |  |  |
 | - | - |
@@ -13,9 +15,12 @@ Here's a list of all languages/framework/famous libraries/softwares i've used mo
 | Java                                | Learning object-oriented programming                                                                      |
 | Pharo                               | Learning object-oriented programming, focused on metaclass concept                                        |
 | C                                   | Learning C language                                                                                       |
+| C++                                 | Learning C++ in autodidact. I have a project ongoing, but it's nowhere near release                       |
 | Arduino                             | Learning embedded systems                                                                                 |
 | Ada                                 | Learning imperative programming (understand : code, better.)                                              |
 | OCaml                               | Learning functional programming                                                                           |
+| Prolog                              | Learning logic programming and [a game I made with a friend](https://github.com/UP-4303/PR0L0-G)          |
+| Haskell                             | Learning Haskell                                                                                          |
 | Kotlin                              | Android apps creation                                                                                     |
 | Android Studio                      | Used for Android apps projects                                                                            |
 | Visual Studio Code                  | My favorite IDE ! I use it everyday for any task I have                                                   |
