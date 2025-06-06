@@ -3,7 +3,7 @@ I am a 4th year student in CMI Informatique (IT, specialized in programming)
 
 If you want to check my repositories, be sure to also check [this list of repositories I have contributed to](https://github.com/stars/UP-4303/lists/contributor).
 
-Here's a list of all languages/framework/famous libraries/softwares i've used more than one time:
+Here's a non-exhaustive list of all languages/framework/famous libraries/softwares i've used more than one time:
 
 |  |  |
 | - | - |
