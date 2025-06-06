@@ -27,7 +27,7 @@ Here's a non-exhaustive list of all languages/framework/famous libraries/softwar
 | Linux (WSL Ubuntu & Debian)                   | Virtual work environment (I did a bit of bash)                                                               |
 | Git & GitHub                                  | Version management                                                                                           |
 | XAMPP                                         | Run website with a PHP/SQL back                                                                              |
-| MariaDB, PostgreSQL                           | Run SQL database                                                                                             |
+| MariaDB, MySQL PostgreSQL                     | Run SQL database                                                                                             |
 | Neo4j, MongoDB                                | Learning other (than relational) types of databases, that is graph oriented and document oriented databases  |
 | Notion.so                                     | Project management, data hosting and sharing (Wiki, watch lists, to-do lists...)                             |
 | Godot & GDScript                              | Made some mini-games (one of them is not on GitHub, i'll look for it 👀)                                    |
